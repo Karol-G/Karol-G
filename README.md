@@ -27,10 +27,10 @@ If you’re interested in **foundation models for medical imaging, 3D segmentati
 - [M3D-CAM](https://github.com/MECLabTUDA/M3d-Cam) [![Stars](https://img.shields.io/github/stars/MECLabTUDA/M3d-Cam?style=social)](https://github.com/MECLabTUDA/M3d-Cam) – Class activation mapping and interpretability for 3D CNNs  
 - [napari-sam](https://github.com/MIC-DKFZ/napari-sam) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/napari-sam?style=social)](https://github.com/MIC-DKFZ/napari-sam) – Interactive segmentation in Napari using foundation models  
 
-### 🛠️ Tooling & Infrastructure
-- [confly](https://github.com/MIC-DKFZ/confly) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/confly?style=social)](https://github.com/MIC-DKFZ/confly) – Configuration management with interpolation and reproducibility in mind  
+### 🛠️ Tooling & Infrastructure  
 - [patchly](https://github.com/MIC-DKFZ/patchly) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/patchly?style=social)](https://github.com/MIC-DKFZ/patchly) – Patch-based processing for very large images and volumes  
-- [MedVol](https://github.com/MIC-DKFZ/MedVol) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/MedVol?style=social)](https://github.com/MIC-DKFZ/MedVol) – Lightweight medical image volume abstraction with metadata support  
+- [MedVol](https://github.com/MIC-DKFZ/MedVol) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/MedVol?style=social)](https://github.com/MIC-DKFZ/MedVol) – Lightweight medical image volume abstraction with metadata support
+- [confly](https://github.com/MIC-DKFZ/confly) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/confly?style=social)](https://github.com/MIC-DKFZ/confly) – Configuration management with interpolation and reproducibility in mind
 - [med-blosc2](https://github.com/Karol-G/med-blosc2) [![Stars](https://img.shields.io/github/stars/Karol-G/med-blosc2?style=social)](https://github.com/Karol-G/med-blosc2) – Fast, compressed storage for large medical arrays using Blosc2  
 - [napari-stream](https://github.com/MIC-DKFZ/napari-stream) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/napari-stream?style=social)](https://github.com/MIC-DKFZ/napari-stream) – Real-time model inference and streaming in Napari  
 - [tqdmp](https://github.com/MIC-DKFZ/tqdmp) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/tqdmp?style=social)](https://github.com/MIC-DKFZ/tqdmp) – Multiprocessing-friendly progress bars  
