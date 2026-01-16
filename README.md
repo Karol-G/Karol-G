@@ -1,36 +1,21 @@
 ## 👋 Hi, I’m Karol
 
-I’m a **Machine Learning Engineer and Researcher** specializing in **3D radiological image analysis**, with a strong focus on **medical image segmentation, interactive AI, and practical tooling for large-scale medical data**.
+I’m a **Machine Learning Engineer and Researcher** at the Medical Image Computing group of the **Deutsches Krebsforschungszentrum (DKFZ)** in Heidelberg, Germany, specializing in **3D radiological image analysis**. Over the last two years, my work has strongly focused on **large-scale self-supervised representation learning** for medical imaging, alongside interactive and applied segmentation research. My work can be broadly grouped into the following areas:
 
-I work at the **Deutsches Krebsforschungszentrum (DKFZ)** in Heidelberg, Germany, where my work sits at the intersection of **methodological research** and **robust, reusable software** for real-world clinical and research workflows.
+* 🧠 **Large-Scale Self-Supervised Representation Learning (DINOv2 / DINOv3)**:
+  My main research focus over the past two years has been on DINO-based foundation models for medical imaging. Within the Human Radiome Project, I worked extensively with DINOv2, contributing to **large-scale pretraining on more than 2.5 million 3D CT and MRI volumes**. I currently work with DINOv3, focusing on parameter-efficient fine-tuning (PEFT) strategies across medical and non-medical image domains. Both research directions are ongoing, with publications expected throughout 2026.
 
----
+* 🔧 **Methodological & Interactive Deep Learning**:
+  Development of 3D medical image segmentation methods, with an emphasis on weak supervision, interactive and prompt-based segmentation, and usability-driven model design. This includes large-scale benchmarking, Napari-based interactive systems, and scalable training and inference pipelines.
 
-## 🔬 Research & Technical Focus
+* 🧠 **Applied & Clinical Projects**:
+  Collaboration with clinical partners on applied radiological segmentation tasks, translating methodological advances into clinically meaningful and validated systems.
 
-My work primarily revolves around:
+* 🛠️ **Tooling & Infrastructure**:
+  Design and maintenance of open-source tools for patch-based processing, large-volume data handling, compressed storage, experiment configuration, and reproducible research workflows.
 
-* **3D medical image segmentation** (fully supervised, weakly supervised, and interactive)
-* **Radiological imaging modalities** (CT, MRI, CBCT, ultrasound)
-* **Human-in-the-loop & prompt-based segmentation** for clinical usability
-* **Scalable data handling** for large volumetric datasets
-* **Benchmarking & evaluation** beyond single-dataset performance
+I am a daily user, contributor, and maintainer of **nnU-Net**, and many of my projects build upon its philosophy of strong, generalizable baselines extended toward interactive and foundation-model–based systems.
 
-I am particularly interested in **how users interact with models**, how **annotations are generated**, and how **training paradigms generalize across datasets, organs, and institutions**.
+If you’re interested in **foundation models for medical imaging, 3D segmentation, or robust ML tooling**, feel free to explore my repositories or reach out—I’m always happy to discuss ideas and collaborate on new projects.
 
----
 
-## 🧠 Selected Open-Source Work
-
-A few highlights from my GitHub projects and contributions:
-
-* **ScribbleBench** – A large-scale benchmark for **scribble-supervised 3D medical segmentation**, designed to evaluate generalization across datasets and anatomies rather than single-task performance.
-* **napari-sam / napari-stream** – Interactive segmentation and real-time model integration in **Napari**, focusing on usability, responsiveness, and clinician-friendly workflows.
-* **patchly** – Efficient patch-based processing for **very large images and volumes**, enabling scalable inference and training without sacrificing spatial context.
-* **ParticleSeg3D** – Instance-aware 3D segmentation using particle-based representations.
-* **M3D-CAM** – Model interpretability and class activation mapping for 3D CNNs.
-* **MedVol** – A lightweight abstraction for medical image volumes with metadata-aware IO and manipulation.
-* **med-blosc2** – Fast, compressed storage for large medical arrays using Blosc2.
-* **confly / tqdmp / human-readable-id** – Small, focused utilities that improve experiment configuration, multiprocessing progress tracking, and reproducibility.
-
-I also work extensively with **nnU-Net** on a daily basis—both as a user and as a reference point for designing strong, generalizable baselines in medical image segmentation.
