@@ -16,8 +16,6 @@ I’m a **Machine Learning Engineer and Researcher** at the Medical Image Comput
 
 I am a daily user, contributor, and maintainer of **nnU-Net**, and many of my projects build upon its philosophy of strong, generalizable baselines extended toward interactive and foundation-model–based systems.
 
-If you’re interested in **foundation models for medical imaging, 3D segmentation, or robust ML tooling**, feel free to explore my repositories or reach out—I’m always happy to discuss ideas and collaborate on new projects.
-
 
 ## 📌 Selection of my repositories
 
