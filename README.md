@@ -14,7 +14,7 @@ I’m a **Machine Learning Engineer and Researcher** at the Medical Image Comput
 * 🛠️ **Tooling & Infrastructure**:
   Design and maintenance of open-source tools for patch-based processing, large-volume data handling, compressed storage, experiment configuration, and reproducible research workflows.
 
-I am a daily user, contributor, and maintainer of **nnU-Net**, and many of my projects build upon its philosophy of strong, generalizable baselines extended toward interactive and foundation-model–based systems.
+I am a daily user, contributor, and maintainer of [nnU-Net](https://github.com/MIC-DKFZ/nnUNet), and many of my projects build upon its philosophy of strong, generalizable baselines extended toward interactive and foundation-model–based systems.
 
 
 ## 📌 Selection of my repositories
