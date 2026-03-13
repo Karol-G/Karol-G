@@ -26,9 +26,9 @@ I am a daily user, contributor, and maintainer of [nnU-Net](https://github.com/M
 - [napari-sam](https://github.com/MIC-DKFZ/napari-sam) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/napari-sam?style=social)](https://github.com/MIC-DKFZ/napari-sam) – Interactive segmentation in Napari using Segment Anything 
 
 ### 🛠️ Tooling & Infrastructure  
-- [patchly](https://github.com/MIC-DKFZ/patchly) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/patchly?style=social)](https://github.com/MIC-DKFZ/patchly) – Patch-based processing for very large images and volumes  
-- [MedVol](https://github.com/MIC-DKFZ/MedVol) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/MedVol?style=social)](https://github.com/MIC-DKFZ/MedVol) – Lightweight medical image volume reader/writer with simple usage
-- [mlarray](https://github.com/MIC-DKFZ/mlarray) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/mlarray?style=social)](https://github.com/MIC-DKFZ/mlarray) – Fast, compressed storage for large medical or science images using Blosc2  
+- [patchly](https://github.com/MIC-DKFZ/patchly) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/patchly?style=social)](https://github.com/MIC-DKFZ/patchly) – Patch-based processing for very large images and volumes
+- [mlarray](https://github.com/MIC-DKFZ/mlarray) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/mlarray?style=social)](https://github.com/MIC-DKFZ/mlarray) – Fast, compressed storage for large medical or science images using Blosc2 
+- [MedVol](https://github.com/MIC-DKFZ/MedVol) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/MedVol?style=social)](https://github.com/MIC-DKFZ/MedVol) – Lightweight medical image volume reader/writer with simple usage 
 - [confly](https://github.com/MIC-DKFZ/confly) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/confly?style=social)](https://github.com/MIC-DKFZ/confly) – Configuration management for ML projects, more intuitive than Hydra
 - [napari-stream](https://github.com/MIC-DKFZ/napari-stream) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/napari-stream?style=social)](https://github.com/MIC-DKFZ/napari-stream) – Real-time streaming of image data over the network to Napari 
 - [tqdmp](https://github.com/MIC-DKFZ/tqdmp) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/tqdmp?style=social)](https://github.com/MIC-DKFZ/tqdmp) – Multiprocessing-friendly progress bars  
