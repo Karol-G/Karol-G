@@ -14,7 +14,9 @@ I’m a **Machine Learning Engineer and Researcher** at the Medical Image Comput
 * 🛠️ **Tooling & Infrastructure**:
   Design and maintenance of open-source tools for patch-based processing, large-volume data handling, compressed storage, experiment configuration, and reproducible research workflows.
 
-I am a maintainer, contributor and daily user of [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet?style=social)](https://github.com/MIC-DKFZ/nnUNet), and many of my projects build upon its philosophy of strong, generalizable baselines extended toward interactive and foundation-model–based systems.
+Co-lead of the [Human Radiome Project](https://human-radiome-project.de/), which aims to develop a radiological 3D vision foundation model trained on 4.8 million 3D images to improve diagnostics and support treatment decisions across diverse populations.
+
+Frequent maintainer, contributor and daily user of [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) [![Stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet?style=social)](https://github.com/MIC-DKFZ/nnUNet), and many of my projects build upon its philosophy of strong, generalizable baselines extended toward interactive and foundation-model–based systems.
 
 
 ## 📌 Selection of my repositories
