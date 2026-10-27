@@ -1,9 +1,12 @@
 ## 👋 Hi, I’m Karol
+<sub>
+(Find my full profile at https://karol-gotkowski.pages.dev/)
+</sub>
 
 I’m a **Machine Learning Engineer and Researcher** at the Medical Image Computing group of the **Deutsches Krebsforschungszentrum (DKFZ)** in Heidelberg, Germany, specializing in **3D radiological image analysis**. Over the last two years, my work has strongly focused on **large-scale self-supervised representation learning** for medical imaging, alongside interactive and applied segmentation research. My work can be broadly grouped into the following areas:
 
 * 🧠 **Large-Scale Self-Supervised Representation Learning (DINOv2 / DINOv3)**:
-  My main research focus over the past two years has been on DINO-based foundation models for medical imaging. Within the [Human Radiome Project](https://human-radiome-project.de/), I worked extensively with DINOv2, contributing to **large-scale pretraining on more than 2.5 million 3D CT and MRI volumes**. I currently work with DINOv3, focusing on parameter-efficient fine-tuning (PEFT) strategies across medical and non-medical image domains. Both research directions are ongoing, with publications expected throughout 2026.
+  My main research focus over the past two years has been 3D foundation models for radiology, culminating in [nnFoundation](https://arxiv.org/abs/2609.26924): a pair of complementary convolutional and transformer-based models **pretrained on 2.1 million CT, MRI and PET volumes from 125 datasets**, evaluated on 108 downstream tasks and released integrated into nnU-Net and nnDetection. I led the data infrastructure group, harmonizing over a petabyte of data and building the database, storage systems and data formats for training at that scale. On the pretraining side I developed a 3D DINOv2 and compared it against MAE under matched compute. I also co-led the hands-on fine-tuning for segmentation and classification. I currently work with DINOv3, focusing on parameter-efficient fine-tuning (PEFT) across medical and non-medical image domains.
 
 * 🔧 **Methodological & Interactive Deep Learning**:
   Development of 3D medical image segmentation methods, with an emphasis on weak supervision, interactive and prompt-based segmentation, and usability-driven model design. This includes large-scale benchmarking, Napari-based interactive systems, and scalable training and inference pipelines.
